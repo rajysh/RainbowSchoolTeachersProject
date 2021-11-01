@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3iFzrGPzRkJP+3dlgIbvFZ1inA5klYEohprDqctmRC0TBhhdZW4kti/Y9X40ShMU5u2YxGWmWmRAdgfE+DCtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajesh_b2\\OneDrive - Dell Technologies\\Work\\FSD\\Projects\\PhaseOne\\Assessment\\RainbowSchoolTeachersProject\\RainbowSchoolTeachersProject\\RainbowSchoolTeachersProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajesh_b2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
